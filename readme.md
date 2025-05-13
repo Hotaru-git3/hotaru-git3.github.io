@@ -11,4 +11,4 @@ Ini adalah proyek latihan Git dan GitHub oleh Hotaru-git3.
 
 ## 🔗 Link GitHub Pages
 
-[Klik untuk lihat halaman live](https://<username>.github.io/<nama-repo>)
+[Klik untuk lihat halaman live] https://Hotaru-git3.github.io/mini-website
